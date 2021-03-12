@@ -1,4 +1,8 @@
-### Hi there 👋
+### enthrighte
+
+This is where my projects live.
+
+-enthrighte
 
 <!--
 **enthrighte/enthrighte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
